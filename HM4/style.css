@@ -1,0 +1,20 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  text-align: center;
+  clear: left;
+  font-family: "futura";
+}
+
+h1 {
+  text-align: center;
+  font-family: "futura";
+}
+
+canvas {
+  display: block;
+  margin: auto;
+}
